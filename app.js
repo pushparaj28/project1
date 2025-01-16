@@ -2,3 +2,8 @@
  let a=10;
  let b=90;
  console.log(a+b);
+
+let greet=(
+    console.log("hello ")
+)
+greet();
